@@ -1,0 +1,13 @@
+/*@import "color.css";*/
+@import url("color.css");
+@import "border.css" print;
+@import "media1020.css" screen and (max-width:1020px);
+h1{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;	
+}
+p{
+text-align: justify;
+margin-top: 50px;
+}
